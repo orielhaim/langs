@@ -1,4 +1,7 @@
 // C++
-cout << "Hello World!" << \n;
-string text;
-cin >> text;
+int main() {
+  cout << "Hello World!" << \n;
+  string text;
+  cin >> text;
+  return 0;
+}
