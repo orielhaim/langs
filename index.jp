@@ -1,2 +1,3 @@
 #JaPy#
 log ("Hello World!" & \n)
+const text = input "Enter Text: "
