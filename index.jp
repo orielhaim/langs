@@ -1,0 +1,2 @@
+#JaPy#
+log ("Hello World!" & \n)
